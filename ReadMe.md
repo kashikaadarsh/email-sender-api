@@ -1,7 +1,7 @@
 #  **Steps for running the project**
 
-## 1.Clone the repository or download the code and then extract all the file.
-## 2.Open the command prompt and switch to the directory contaning the project.
+## 1.Clone the repository or download the code and then extract all the files.
+## 2.Open the command prompt and switch to the directory containing the project.
 ## 3.Run **node index.js**
 ## 4.Open the link in your browser,select the gmail account you want to use to send emails.
 ## 5.Click on Advanced->Go to quickstart(unsafe)->Allow to allow access to your account.
