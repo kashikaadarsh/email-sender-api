@@ -11,3 +11,14 @@
 ## 9. In the input section select Body and raw.
 ## 10. Write **{"email":"<receiver's email address>"}** in the body.
 ## 11. Click on send and a mail will be send to the given email-id.
+
+## Here is a snapshot of the working project
+![image 1](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp1.png)
+![image 2](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp2.png)
+![image 3](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp3.png)
+![image 4](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp4.png)
+![image 5](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp5.png)
+![image 6](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp6.png)
+![image 7](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp7.png)
+![image 8](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp8.png)
+![image 9](https://github.com/kashikaadarsh/email-sender-api/blob/master/Snipp9.png)

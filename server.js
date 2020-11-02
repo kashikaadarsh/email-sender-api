@@ -1,9 +1,10 @@
 //install the required modules
-const OAuth2 = google.auth.OAuth2;
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
 const { google } = require('googleapis');
+const OAuth2 = google.auth.OAuth2;
 //to read files
 const fs = require('fs');
 const request = require('request')
